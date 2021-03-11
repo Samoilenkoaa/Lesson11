@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Lesson11</string>
+    <string name="app_name">Lesson9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settingsfragment">SettingsFragment</string>
+    <string name="Settings_Lable">Settings</string>
+    <string name="settings">setteing</string>
+    <string name="main">main</string>
+    <string name="favorite">favorite</string>
+    <string name="fragment_navigation">fragment_nav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="continue_">Продолжить</string>
+    <string name="del">Удалить</string>
+
+    <string name="note_detail_alert_title">Предупреждение</string>
+    <string name="note_detail_alert_message">Вы точно хотите удалить эту заметку?</string>
+    <string name="note_detail_alert_button_positive_label">Да</string>
 </resources>
